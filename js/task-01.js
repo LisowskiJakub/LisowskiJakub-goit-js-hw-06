@@ -6,3 +6,4 @@ categoriesElements.forEach(e => {
       `)
 }
 );
+ 
