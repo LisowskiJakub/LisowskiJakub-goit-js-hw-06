@@ -5,7 +5,6 @@ let counterValue = 0;
 const increment = ()=>{
     counterValue++
     value.textContent= counterValue
-
 }
 const decrement = ()=>{
     counterValue--

@@ -5,7 +5,6 @@ nameInput.addEventListener('input',(e)=>{
     nameOutput.textContent=e.currentTarget.value;
     if (nameOutput.textContent==='')
     {
-        nameOutput.textContent='Anonymous'
+        nameOutput.textContent='Anonymous';
     }
-
 })
